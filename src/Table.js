@@ -83,4 +83,5 @@ const Table = ({ users }) => {
   );
 };
 
+
 export default Table;
